@@ -1,2 +1,6 @@
 # Esercizio2
-ClasseStudents
+
+-MyIT second exercise
+
+IDE used: IntelliJ IDEA
+Programming language: JAVA
